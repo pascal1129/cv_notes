@@ -9,6 +9,7 @@
 ---------------------------------|--------------
 Docker常用整理        | [Docker.md](https://github.com/pascal1129/public_notes/blob/master/Docker.md) 
 Markdown常用语法     | [Markdown.md](https://github.com/pascal1129/public_notes/blob/master/Markdown.md) 
+OpenCV编译 | [OpenCV_compile.md](https://github.com/pascal1129/public_notes/blob/master/OpenCV_compile.md) 
 
 
 
