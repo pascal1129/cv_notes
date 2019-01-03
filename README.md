@@ -5,8 +5,9 @@
 
 更新时间（2018.12.09）
 
-### 目录
+## 目录
 
+#### Linux及杂类
  笔记名称         |链接
 ---------------------------------|--------------
 Docker常用整理        | [Docker.md](https://github.com/pascal1129/public_notes/blob/master/notes/Docker.md) 
@@ -14,5 +15,8 @@ Markdown常用语法     | [Markdown.md](https://github.com/pascal1129/public_no
 OpenCV编译 | [OpenCV_compile.md](https://github.com/pascal1129/public_notes/blob/master/notes/OpenCV_compile.md) 
 Detrctron镜像制作和Demo运行 | [Detectron_by_Docker.md](https://github.com/pascal1129/public_notes/blob/master/notes/Detectron_by_Docker.md) 
 
-
+#### Python
+ 笔记名称         |链接
+---------------------------------|--------------
+Matplotlib：Python作图        | [mofan_matplotlib.ipynb](https://github.com/pascal1129/CV_Notes/blob/master/codes/mofan_matplotlib.ipynb) 
 
