@@ -24,3 +24,9 @@ Matplotlib：Python作图        | [mofan_matplotlib.ipynb](https://github.com/p
 | ------------------------ | ------------------------------------------------------------ |
 | 机器学习中f1-score的计算 | [f1-score.ipynb](https://github.com/pascal1129/CV_Notes/blob/master/codes/f1-score.ipynb) |
 
+### 图形图像
+
+| 笔记名称                     | 链接                                                         |
+| ---------------------------- | ------------------------------------------------------------ |
+| 图像数据集：均值、标准差计算 | [cal_mean_and_std.py](https://github.com/pascal1129/CV_Notes/blob/master/codes/cal_mean_and_std.py) |
+
