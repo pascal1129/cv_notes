@@ -20,3 +20,9 @@ Detrctron镜像制作和Demo运行 | [Detectron_by_Docker.md](https://github.com
 ---------------------------------|--------------
 Matplotlib：Python作图        | [mofan_matplotlib.ipynb](https://github.com/pascal1129/CV_Notes/blob/master/codes/mofan_matplotlib.ipynb) 
 
+#### 机器学习
+
+| 笔记名称                 | 链接                                                         |
+| ------------------------ | ------------------------------------------------------------ |
+| 机器学习中f1-score的计算 | [f1-score.ipynb](https://github.com/pascal1129/CV_Notes/blob/master/codes/f1-score.ipynb) |
+
