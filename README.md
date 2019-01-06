@@ -36,9 +36,11 @@ Matplotlib：Python作图        | [mofan_matplotlib.ipynb](https://github.com/p
 | -------------------------------------- | ------------------------------------------------------------ |
 | PyTorch图像扩增工具：Transforms (Demo) | [torchvision.transforms.ipynb](https://github.com/pascal1129/CV_Notes/blob/master/codes/torchvision.transforms.ipynb) |
 
+### 论文
 
-
-
+| 笔记名称                                  | 链接                                                         |
+| ----------------------------------------- | ------------------------------------------------------------ |
+| mixup: BEYOND EMPIRICAL RISK MINIMIZATION | [mixup.ipynb](https://github.com/pascal1129/CV_Notes/blob/master/codes/mixup.ipynb) |
 
 
 
