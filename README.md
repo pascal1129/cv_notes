@@ -35,6 +35,7 @@ Matplotlib：Python作图        | [mofan_matplotlib.ipynb](https://github.com/p
 | 笔记名称                               | 链接                                                         |
 | -------------------------------------- | ------------------------------------------------------------ |
 | PyTorch图像扩增工具：Transforms (Demo) | [torchvision.transforms.ipynb](https://github.com/pascal1129/CV_Notes/blob/master/codes/torchvision.transforms.ipynb) |
+| PyTroch寻找最优学习率                  | [find_best_lr.py](https://github.com/pascal1129/CV_Notes/blob/master/codes/find_best_lr.py) |
 
 ### 论文
 
