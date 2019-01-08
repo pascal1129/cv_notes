@@ -16,6 +16,7 @@ Detrctron镜像制作和Demo运行 | [Detectron_by_Docker.md](https://github.com
 ### Python
  笔记名称         |链接
 ---------------------------------|--------------
+ Python多进程实例：下载外部数据 |[download_external_data.py](https://github.com/pascal1129/CV_Notes/blob/master/codes/download_external_data.py)
 Matplotlib：Python作图        | [mofan_matplotlib.ipynb](https://github.com/pascal1129/CV_Notes/blob/master/codes/mofan_matplotlib.ipynb) 
 
 ### 机器学习
