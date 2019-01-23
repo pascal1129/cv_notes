@@ -27,9 +27,10 @@ Matplotlib：Python作图        | [mofan_matplotlib.ipynb](https://github.com/p
 
 ### 图形图像
 
-| 笔记名称                     | 链接                                                         |
-| ---------------------------- | ------------------------------------------------------------ |
-| 图像数据集：均值、标准差计算 | [cal_mean_and_std.py](https://github.com/pascal1129/CV_Notes/blob/master/codes/cal_mean_and_std.py) |
+| 笔记名称                                  | 链接                                                         |
+| ----------------------------------------- | ------------------------------------------------------------ |
+| 图像数据集：均值、标准差计算              | [cal_mean_and_std.py](https://github.com/pascal1129/CV_Notes/blob/master/codes/cal_mean_and_std.py) |
+| 空间变换网络（Spatial Transform Network） | [STN.ipynb](https://github.com/pascal1129/CV_Notes/blob/master/codes/STN.ipynb) |
 
 ### PyTorch
 
